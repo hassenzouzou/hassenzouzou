@@ -39,7 +39,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
+<!--
 ## 📊 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassenzouzou&show_icons=true&theme=tokyonight)
@@ -50,5 +50,19 @@
 
 ## ⏰ WakaTime Stats
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassenzouzou1)](https://github.com/anuraghazra/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassenzouzou1) 
+-->
+
+## 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassenzouzou&show_icons=true&theme=blueberry)
+
+## 🔝 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassenzouzou&layout=compact&langs_count=10&theme=blueberry)
+
+## ⏰ WakaTime Stats
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassenzouzou1&theme=blueberry)
+
 
