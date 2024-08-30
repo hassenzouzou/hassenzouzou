@@ -42,5 +42,12 @@
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassenzouzou&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassenzouzou&layout=compact&langs_count=10)]
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassenzouzou&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassenzouzou&layout=compact&langs_count=10) -->
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=hassenzouzou&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassenzouzou&layout=compact&langs_count=10" alt="Top Langs"></td>
+  </tr>
+</table>
