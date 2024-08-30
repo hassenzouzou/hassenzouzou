@@ -42,12 +42,12 @@
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassenzouzou&layout=rank&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassenzouzou&layout=rank&show_icons=true&theme=holi)
 
 ## 🔝 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassenzouzou&layout=compact&langs_count=10&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassenzouzou&layout=compact&langs_count=10&theme=holi)
 
 ## ⏰ WakaTime Stats
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassenzouzou1&layout=compact&theme=github_dark)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassenzouzou1&layout=compact&theme=holi)
