@@ -2,15 +2,15 @@
 
 ## Web Developer 👨‍💻
 
-- 👋 Hi, I’m @hassenzouzou
+- 👋 Hi, I’m BLUE.
 
-- 👀 I’m interested in books and coding [![wakatime](https://wakatime.com/badge/user/018c2a1a-3388-4dfd-b91c-a98e103bbca0.svg)](https://wakatime.com/@018c2a1a-3388-4dfd-b91c-a98e103bbca0)
+- 👀 I’m interested in books and coding - [![wakatime](https://wakatime.com/badge/user/018c2a1a-3388-4dfd-b91c-a98e103bbca0.svg)](https://wakatime.com/@018c2a1a-3388-4dfd-b91c-a98e103bbca0).
 
 - 🌱 I’m currently learning MERN Technologies.
 
 - 💞️ I’m open to work and collaborations.
 
-- 📫 How to reach me hassen.zouzou.bl@gmail.com
+- 📫 How to reach me hassen.zouzou.bl@gmail.com.
 
 - ⚡ Fun fact: I'm the developer who doesn't like coding at night.
 
@@ -39,19 +39,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-<!--
-## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassenzouzou&show_icons=true&theme=tokyonight)
-
-## 🔝 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassenzouzou&layout=compact&langs_count=10)
-
-## ⏰ WakaTime Stats
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassenzouzou1) 
--->
 
 ## 📊 GitHub Stats
 
@@ -64,6 +51,3 @@
 ## ⏰ WakaTime Stats
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassenzouzou1&theme=blueberry)
-
-
-
