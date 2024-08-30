@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassenzouzou&layout=rank&show_icons=true&theme=blueberry&text_color=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassenzouzou&layout=rank&show_icons=true&theme=blueberry&text_color=white&icon_color=blue)
 
 ## 🔝 Top Languages
 
