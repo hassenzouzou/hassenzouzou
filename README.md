@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m BLUE.
 
-- 👀 I’m interested in books and coding - [![wakatime](https://wakatime.com/badge/user/018c2a1a-3388-4dfd-b91c-a98e103bbca0.svg)](https://wakatime.com/@018c2a1a-3388-4dfd-b91c-a98e103bbca0).
+- 👀 I’m interested in books and coding - ![wakatime](https://wakatime.com/badge/user/018c2a1a-3388-4dfd-b91c-a98e103bbca0.svg).
 
 - 🌱 I’m currently learning MERN Technologies.
 
@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassenzouzou&layout=rank&show_icons=true&theme=blueberry)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassenzouzou&layout=rank&show_icons=true&theme=blueberry&text_color=white)
 
 ## 🔝 Top Languages
 
