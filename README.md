@@ -41,15 +41,15 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/hassenzouzou">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassenzouzou&theme=highcontrast" alt="hassenzouzou's GitHub Contribution"/>
+<!-- <p align="center">
+  <a href="https://github.com/mahfoud-mehalli">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahfoud-mehalli&theme=highcontrast" alt="mahfoud-mehalli's GitHub Contribution"/>
   </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/hassenzouzou">
-  <img width="49.5%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hassenzouzou&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img width="49.5%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hassenzouzou&layout=compact&langs_count=8&theme=highcontrast&count_private=true"/>
+<a href="https://github.com/mahfoud-mehalli">
+  <img width="49.5%" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassenzouzou&theme=highcontrast"/>
 </a>
-</p>
+</p> -->
+[![Hassen's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
