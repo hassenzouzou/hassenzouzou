@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @hassenzouzou
 
-- 👀 I’m interested in [![wakatime](https://wakatime.com/badge/user/018c2a1a-3388-4dfd-b91c-a98e103bbca0.svg)](https://wakatime.com/@018c2a1a-3388-4dfd-b91c-a98e103bbca0)
+- 👀 I’m interested in books and coding [![wakatime](https://wakatime.com/badge/user/018c2a1a-3388-4dfd-b91c-a98e103bbca0.svg)](https://wakatime.com/@018c2a1a-3388-4dfd-b91c-a98e103bbca0)
 
 - 🌱 I’m currently learning MERN Technologies.
 
