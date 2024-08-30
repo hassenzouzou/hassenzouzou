@@ -41,15 +41,4 @@
 
 ## GitHub Stats
 
-<!-- <p align="center">
-  <a href="https://github.com/mahfoud-mehalli">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahfoud-mehalli&theme=highcontrast" alt="mahfoud-mehalli's GitHub Contribution"/>
-  </a>
-</p>
-
-<p align="center">
-<a href="https://github.com/mahfoud-mehalli">
-  <img width="49.5%" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassenzouzou&theme=highcontrast"/>
-</a>
-</p> -->
-[![Hassen's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassenzouzou&show_icons=true&theme=tokyonight)
